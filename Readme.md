@@ -95,4 +95,4 @@ I have explained the API endpoints in the DesignDocument.pdf uploaded in this re
 
 I have uploaded the SQL queries and API testing done in Postman in Report.pdf
 
-Also I have explained my Conversation with AI in the AIconverstaionScreenshots.pdf please refer that. 
+Also I have explained my Conversation with AI in the AI converstaion Screenshots.pdf please refer that. 
