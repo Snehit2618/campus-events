@@ -80,7 +80,7 @@ Firstly, the setup of the project was done in VScode using npm and the node serv
 - attendance
 - feedback
 
-after the succesfull creation of the database i asked the AI fo assisting me with creating of the API endpoints and i started testing the API's one bye one in Postman.
+After the succesfull creation of the database i asked the AI fo assisting me with creating of the API endpoints and i started testing the API's one bye one in Postman.
 
 Below is the workflow of this project:
 - Event is created by admin (POST request)
@@ -92,5 +92,7 @@ Below is the workflow of this project:
 Also GET requests have been used for fetching the events, students, registrations, attendance and feedback.
 
 I have explained the API endpoints in the DesignDocument.pdf uploaded in this repository.
+
 I have uploaded the SQL queries and API testing done in Postman in Report.pdf
+
 Also I have explained my Conversation with AI in the AIconverstaionScreenshots.pdf please refer that. 
