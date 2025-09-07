@@ -82,7 +82,7 @@ Firstly, the setup of the project was done in VScode using npm and the node serv
 - attendance
 - feedback
 
-After the succesfull creation of the database i asked the AI fo assisting me with creating of the API endpoints and i started testing the API's one bye one in Postman.
+After the succesfull creation of the database i asked the AI fo assisting me with creating of the API endpoints and i started testing the API's one by one in Postman.
 
 Below is the workflow of this project:
 - Event is created by admin (POST request)
@@ -97,4 +97,4 @@ I have explained the API endpoints in the DesignDocument.pdf uploaded in this re
 
 I have uploaded the SQL queries and API testing done in Postman in Report.pdf
 
-Also I have explained my Conversation with AI in the AIconverstaionScreenshots.pdf please refer that. 
+Also I have explained my Conversation with AI in the AI converstaion Screenshots.pdf please refer that. 
