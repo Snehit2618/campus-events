@@ -17,7 +17,7 @@ Campus Event Management Platform:
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Snehit2618/campus-events.git
 cd campus-events
 ```
 
