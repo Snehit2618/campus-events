@@ -43,7 +43,9 @@ PORT=5000
 4. **Setup the PostgreSQL Database**
 
 - Create a database named `campus_events` in your PostgreSQL server.
-- Run the SQL schema scripts located in `/db/schema.sql` (or paste the table creation queries in pgAdmin Query Tool) to create all required tables.
+- Run the SQL commands in schema.sql to create the tables.
+- Run seed.sql to add sample data for testing.
+
 
 5. **Start the Server**
 
